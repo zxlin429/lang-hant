@@ -1,6 +1,6 @@
 {
   "name": "lang-hant",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "网页简体繁体转换工具,导入后会根据页面的更新自动转换",
   "main": "index.js",
   "scripts": {
