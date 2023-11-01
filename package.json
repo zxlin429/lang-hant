@@ -1,0 +1,12 @@
+{
+  "name": "lang-hant",
+  "version": "1.0.0",
+  "description": "网页简体繁体转换工具,导入后会根据页面的更新自动转换",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["hant","zh"],
+  "author": "zxlin",
+  "license": "ISC"
+}
